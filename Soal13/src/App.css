@@ -1,0 +1,28 @@
+.picture {
+  width: 400px;
+  height: 200px;
+}
+
+img{
+  border-top-right-radius: 17px;
+  border-top-left-radius: 15px;
+  opacity: 1;
+}
+
+.bio{
+  text-align: left;
+  margin: 25px;
+  flex: auto;
+}
+
+.card {
+  display: inline-table;
+  margin: 20px;
+  border: 1px solid black;
+  border-radius: 2px;
+}
+
+.page{
+  margin: 0 100px;
+  text-align: center;
+}
